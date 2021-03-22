@@ -85,7 +85,6 @@ public class SimpleMathService implements MathService {
                 result[index++] = elem;
             }
         }
-
         return result;
     }
 
